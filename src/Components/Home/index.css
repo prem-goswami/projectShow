@@ -1,0 +1,13 @@
+.headerContainer {
+  background-color: #e2e8f0;
+  padding: 10px;
+}
+.websiteImage {
+  height: 80px;
+  margin-left: 20px;
+}
+.projectsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
